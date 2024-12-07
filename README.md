@@ -1,16 +1,8 @@
-# AWS for University of Kelaniya
+# React + Vite
 
-The **Amazon Web Services (AWS)** website 🌐 provides scalable, reliable, and cost-effective cloud solutions ☁️, supporting institutions like the **University of Kelaniya** 🏫 in modernizing IT and fostering innovation 💡.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Key Features:
+Currently, two official plugins are available:
 
-- **Scalable Solutions**: Easily scale services based on demand.
-- **Reliable Infrastructure**: AWS offers high availability and uptime.
-- **Cost-Effective**: Pay-as-you-go pricing for cloud services.
-- **Innovation & Development**: Supports educational institutions in creating modern IT infrastructures.
-
-## Benefits to the University of Kelaniya:
-
-- **Enhancing Research**: Facilitate research projects with cloud computing.
-- **Improved Learning Platforms**: Create flexible, accessible educational resources for students and faculty.
-- **Collaboration Tools**: Enable students and staff to collaborate more effectively on projects.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
